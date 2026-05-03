@@ -1,5 +1,5 @@
 # AyED
-lUDMILA Acosta
+ludmila Acosta
 k1041
 g++ (Rev1, Built by MSYS2 project) 16.1.0
 Copyright (C) 2026 Free Software Foundation, Inc.
